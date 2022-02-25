@@ -1,0 +1,1223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the proceedings in the House of Commons in relation to the recoining the clipp'd money, and falling the price of guineas together with a particular list of the names of the members consenting and dissenting : in answer to a letter out of the countrey.</title>
+            <author>Wagstaffe, Thomas, 1645-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65922</idno>
+            <idno type="STC">Wing W201</idno>
+            <idno type="STC">ESTC R7420</idno>
+            <idno type="EEBO-CITATION">13099659</idno>
+            <idno type="OCLC">ocm 13099659</idno>
+            <idno type="VID">97403</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97403)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 402:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the proceedings in the House of Commons in relation to the recoining the clipp'd money, and falling the price of guineas together with a particular list of the names of the members consenting and dissenting : in answer to a letter out of the countrey.</title>
+                  <author>Wagstaffe, Thomas, 1645-1712.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Thomas Wagstaffe. Cf. BM.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Published also in: A collection of scarce and valuable papers. London, 1712.</note>
+                  <note>Errors in pagination.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons.</term>
+               <term>Coinage --  Great Britain.</term>
+               <term>Currency question --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:97403:1"/>
+            <pb n="1" facs="tcp:97403:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF THE PROCEEDINGS IN THE Houſe of Commons, In Relation to the <hi>Recoining</hi> the <hi>Clipp'd Money,</hi> and <hi>Falling the Price of Guineas.</hi> TOGETHER With a Particular Liſt of the Names of the Members <hi>conſenting</hi> and <hi>diſſenting.</hi>
+            </head>
+            <head type="sub">In Anſwer to a Letter out of the Countrey.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received Yours, <hi>Aug.</hi> 14. and I hold my Self bound upon many Accounts to comply with your Deſires, and to give you the beſt Satisfaction I can; and in the firſt place, I muſt freely acknowledg to you, that how aſtoniſhing ſoever the Difficul<g ref="char:EOLhyphen"/>ties the Countrey labours under may ſeem to you, they are not at all ſurpriſing to me, for I never expected otherwiſe, than
+<pb n="2" facs="tcp:97403:2"/>that the <hi>Grand Project</hi> of <hi>lowering the Guineas,</hi> and the <hi>Recoining our Silver,</hi> at this time, when ſuch vaſt Quantities, and in truth all our good Money, had already been tranſported, into <hi>Holland, Flanders, Spain, Italy</hi> and <hi>Germany,</hi> muſt needs have a terrible Aſ<g ref="char:EOLhyphen"/>pect on a Nation exhauſted before, and drawn down to the laſt Degree. For a Man of half an Eye might eaſily perceive, that the great Pains and Labour the <hi>Court</hi> was at to gain an Act of Parlia<g ref="char:EOLhyphen"/>ment for ſinking our <hi>Gold,</hi> and putting a new Face on our <hi>Silver,</hi> was only to qualify them for <hi>Travel,</hi> and as neceſſary Preparati<g ref="char:EOLhyphen"/>ons for the Journey they were deſign'd for, for they only ſtaid at Home, becauſe our <hi>Gold</hi> was too high, and our <hi>Silver</hi> too low, ei<g ref="char:EOLhyphen"/>ther <hi>light</hi> in weight, or <hi>baſe</hi> in Mettal, and when once theſe Ob<g ref="char:EOLhyphen"/>ſtructions were remov'd, they would be ready to croſs the Seas to their Fellows, and become <hi>Denizens</hi> of <hi>another Countrey.</hi> And if a Kingdom hath not a third part ſufficient <hi>Caſh</hi> left to manage the Trade, and Intereſt of it; in ſuch a Caſe to form a grand De<g ref="char:EOLhyphen"/>ſign to diminiſh that by <hi>one half,</hi> by Coinage, and abatement of the current Value, and after that to ſend Abroad three Parts of four, ev'n of <hi>that half,</hi> can viſibly tend only to impoveriſh the Rich, to ſtarve the Poor, and to put the whole Nation at a Stand; it throws all the Remnant of our Money into the Hands of the Government, deſtroys all the Credit of the Nation, and at the ſame time leaves nothing to encourage and drive on Trade, nor to ſupply the Ne<g ref="char:EOLhyphen"/>ceſſities of private Men and Families, and will in a ſhort time re<g ref="char:EOLhyphen"/>duce us to the Primitive State, not any more to buy, but to barter and exchange, to commute what we have for what we want; and thoſe who want, and yet have nothing to exchange, will ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve for themſelves, and take it where they find it. Theſe were the Thoughts I had of this Bill before it paſs'd, and am therefore the leſs ſurpriz'd, when I ſee them, for the moſt part, already made good, and in truth they are obvious to any Man, and I cannot be<g ref="char:EOLhyphen"/>lieve but the <hi>warmeſt Sticklers</hi> for it ſaw theſe Effects and Conſe<g ref="char:EOLhyphen"/>quences, as clearly and plainly as thoſe that oppos'd it, for what Ends ſoever they engaged ſo fiercely to promote it. And this brings me to the other Branch of your Letter, <hi>(viz.)</hi>
+            </p>
+            <p>That the Contrey feeling theſe Effects, are provok'd to very great Anger againſt the <hi>Parliament,</hi> and can hardly reſtrain their Hands from offering Violence to the <hi>Perſons,</hi> and <hi>Houſes</hi> of the <hi>Members.</hi> Now, Sir, I muſt plainly confeſs to you on this Head, that I think (in the General) that the Countrey are in the Right, and have plac'd their Wrath on a true Object. For tho the Root
+<pb n="3" facs="tcp:97403:2"/>of this Project lies much deeper; yet it could never affect the People, but by them, and as paſſing thro their Hands, It had indeed another Head and Original, but the Miſchief deriv'd to the People by it is purely thro <hi>them.</hi> The Country, when they chuſe them, they look upon them as their Truſtees, and that they ought to take care (eſpecially in the matter of Money) that the People receive no Damage, but if thro their Default either by their Connivance, Partiality, Fear, Negligence, and much more by a corrupt Activity, the good People of this Nation are brought into Danger, they will charge it upon their Repreſentatives, and ſo far they are right; they do but what is Equal and Fit; for no Man can think himſelf hardly dealt with, if he is charg'd only with his own Actions; if therefore the Members will vote, and the Parliament enact things the moſt <hi>intolerable</hi> and <hi>grievous,</hi> they muſt be contented to bear the blame on't, and take the <hi>Curſes of the People</hi> for their Pains. It will not be ſufficient here for any Man to ſay, that He was miſled, impos'd upon, or frighted; for tho theſe may excuſe in a private Capacity, and Ignorance and Miſtake may atone for Perſonal and Private Miſcarriages, yet if Men will take upon them great Truſts, if they will load them<g ref="char:EOLhyphen"/>ſelves with other Mens Concerns, and take upon them the Charge of a Nation, they are Reſponſible for the Failures that paſs thro their Hands, and muſt not take it ill, if when the People find themſelves Suffering by <hi>their</hi> means, they lay it at <hi>their</hi> Doors, for it was Original Fraud for them, when they wanted Wiſdom and Reſolution, to take upon them a Poſt that requir'd ſo great a meaſure of both. It would be a ridiculous Excuſe in a <hi>General:</hi> for the loſs of an Army, that he was afraid, or miſtaken, where<g ref="char:EOLhyphen"/>as the very Station requires and implies the direct contrary Qua<g ref="char:EOLhyphen"/>lities, the higheſt Circumſpection and Valour, If therefore Men will be repreſenting a Nation, they are bound at the ſame time to provide themſelves with ſuitable Abilities; and if thro want of Wiſdom, Caution, Courage, and other neceſſary Qualifications in a Senator, they are prevail'd upon to join in pernicious and deſtru<g ref="char:EOLhyphen"/>ctive Votes, they are juſtly accountable for what miſcarries under their Hands; for altho in point of Malignity there is ſome difference between the active and buſy Members, thoſe who purſued this matter with the utmoſt Diligence and Application, and thoſe who were lead on to give their Concurrence, yet in point of Danger, 'tis all one, and the People are undone, as well by the Supineneſs and Cowardiſe of ſome, as by the Forwardneſs and Zeal of others;
+<pb n="4" facs="tcp:97403:3"/>as a Nation may be as ſoon ruin'd by ill Conduct, as by Treachery. So that ſo far as every particular Man had a ſhare in laying this heavy Oppreſſion upon the People, ſo far he muſt expect to bear ſhare in their ill Will; and the People do Juſtice to their Repre<g ref="char:EOLhyphen"/>ſentatives, as well as to themſelves, by imputing to them all that preſent Miſery and Calamity they now groan under. But then here is the Fault, they are apt to lay this Charge promiſcuouſly, without Diſcretion or Diſtinction, as if every Gentleman that ſits in that Houſe was equally chargeable with all the Proceedings, whereas 'tis a Collective Body, made up of Gentlemen of differ<g ref="char:EOLhyphen"/>ing Tempers and Diſpoſitions, and there were a great many very worthy Patriots, who wiſely and honeſtly conſider'd the caſe of the People, and with great Courage and Prudence oppos'd theſe Proceedings to the utmoſt of their Power, altho they were at length over-rul'd by a Majority, which they could not help, and had us'd all their endeavours to hinder. And it is the higheſt Inju<g ref="char:EOLhyphen"/>ſtice in the World to aſcribe <hi>that</hi> to them which they were ſo far from concurring in, that they oppos'd to the laſt, and the utmoſt Ingratitude for the People to repay them with Hatred, only for en<g ref="char:EOLhyphen"/>deavouring faithfully to ſerve them, tho they were not able to effect it. But this ariſes from two Cauſes, the one is the Station and Circumſtances of the Generality of the People, they have no opportunities to know the particular Proceedings in Parliament, nor means to diſtinguiſh between their Faithful Repreſentatives, and others; for tho the <hi>Votes</hi> are Printed, the <hi>Yeas</hi> and <hi>Noes,</hi> the Names of the Perſons concurring and diſſenting are not, and the Nation hath no way of knowing that but by particular Information. And I confeſs I have often wonder'd that thoſe Gentlemen who had ſo ſignally <hi>diſtinguiſhed</hi> themſelves in Parliament, ſhould hitherto ſuffer themſelves to lie under the common Obloquy and Hatred, and not endeavour to remove it by informing the reſpective Counties, Cities, and Boroughs, of their Honeſt and Faithful Care to pre<g ref="char:EOLhyphen"/>ſerve them from thoſe terrible Inconveniencies which they fore<g ref="char:EOLhyphen"/>ſaw theſe Proceedings would inevitably bring upon them. Another cauſe of this ſiniſter and undiſtinguiſhing Conſtruction, is the Artifice of the Leading Men, and the Great Sticklers, who having themſelves been the Sole Authors of theſe unhappy Circumſtances, and at the ſame time being ſenſible how very ungrateful and prejudical they are to the People, are very indu<g ref="char:EOLhyphen"/>ſtrious to keep the People Hoodwinkt, hoping thereby to paſs undiſcern'd and undiſtinguiſh'd in the Crowd, and that they may
+<pb n="5" facs="tcp:97403:3"/>eſcape well enough ſo long as they lie in Common, and have no particular Mark ſet upon them; nay, in good truth ſome of theſe are not contented to do all the Miſchief themſelves, but think they have not play'd the whole Game out, 'till they have laid the Blame on other Mens Backs; and I cannot forbear remarking to you, that, at this very time, in ſeveral Cities and Counties, perhaps in all, theſe very Men who were the moſt active &amp; forward, and made it their Buſineſs to bring this dreadful Deſolation on the Kingdom, are waſhing their Hands and wiping their Mouths, and craftily inſinuating into the credulous Multitude, that the preſent Calamities are purely owing to the other <hi>Members,</hi> and that they, honeſt Men, are harmleſs and clear of the whole matter, and ſo think to eſcape themſelves by diverting the Stream of the Peoples Rage on innocent Men; and thereby hope to gain too Points, both to cover their own Guilts, and at the ſame time to ſatiate their Revenge, by expoſing to popular Fury thoſe who would not be as bad as themſelves; ev'n as <hi>Joſeph</hi>'s Miſtreſs attempted his Chaſtity, and then transferred it to him to hide her own Crime, and to be reveng'd on him for his Refuſal. This muſt be conſeſſed to be a high ſlight in Politicks, but 'tis great Pity but it was turned upon them, by ſetting things in a true Light, that is, by giving a full State of this Matter, that the People may know their Friends from their Foes, and plainly ſee whom they are to thank for this conſuming Act, which hath devoured our Trade, and in a ſhort time will ſwallow up all the Money in the Nation. And this leads me to the Third and Laſt part of your Letter: And that is, you deſire from me an account of the Management of this whole Affair in Parliament, and withal you deſire me to be very particular and expreſs, becauſe, you ſay, you have been apt hitherto to err with the Multitude, and you think it becomes every honeſt Man to rectify his Miſtakes, and to have a right Opinion both of Perſons and Things. And in order to your entire Satisfaction in this Point. I ſhall <hi>Firſt</hi> give you the plain Matter of Fact, and lay before you a ſhort Abſtract of the Progreſs of this matter in the <hi>Houſe of Commons.</hi> And <hi>Secondly,</hi> I ſhall give you a <hi>Liſt</hi> (as far as my Memory ſerves) of all the <hi>Yeas</hi> and <hi>Noes,</hi> that is, of all the Perſons who <hi>conſented,</hi> and who <hi>diſſented,</hi> who were <hi>for,</hi> and who <hi>againſt,</hi> the finking of the <hi>Guineas, &amp;c.</hi> whereby you will be fully enabled to judge uprightly of this Matter to tranſlate the Opinion of Perſons and Things to their true Obiects; and, according to the Engliſh Proverb, <hi>To lay the Saddle on the Right Horſe.</hi>
+            </p>
+            <pb n="6" facs="tcp:97403:4"/>
+            <p>As to the <hi>Firſt</hi> of theſe, when I have repneſented to you the ſeveral Steps and Movements of this matter in Parliament, and laid them together before you, you will have a direct view of the whole, you will at once ſee the Original, the Riſe, Progreſs and Perfection of it; you will eaſily perceive the Struglings of the Members, and how at length the <hi>Court Party</hi> carry'd it; you will ſee what Overtures have been made to ſcoure and uphold the People with reſpect to it, and how thoſe have been rejected; and in ſhort, you will have before you the <hi>Methods,</hi> or (in Parliamentary Lan<g ref="char:EOLhyphen"/>gnage) the <hi>Ways and Means,</hi> whereby the Contrey hath been brought into theſe deſolate Circumſtances; and then, in the <hi>Second Place,</hi> by the <hi>particular Liſt</hi> you will ſee <hi>by whom.</hi>
+            </p>
+            <p>Be pleaſed then to obſerve, that at the opening of the Parlia<g ref="char:EOLhyphen"/>ment, the King recommended to them the redreſſing the ill State of the Coin; and in purſuance of that, <hi>Martis</hi> 10 <hi>Dec.</hi> 1695. Colonel <hi>Granvil</hi> reports from the Committee appointed to conſider the State of the Nation, ſeveral Reſolutions relating to the Recoin<g ref="char:EOLhyphen"/>ing of Clipt Money, and putting a ſtop to the Currency of it after a certain time; which were agreed unto by the Houſe. And 14 <hi>Dec.</hi> an Addreſs was agreed upon to his Majeſty, purſuant to the ſaid Reſolutions; and 17 <hi>Dec.</hi> the Chancellor of the Exche<g ref="char:EOLhyphen"/>quer (Mr. <hi>Mountague,</hi> to whom the ſaid Reſolutions were chiefly owing) reported the Addreſs, and likewiſe the King's Anſwer to it, <hi>That he would iſſue his Proclamation accordingly with all conveni<g ref="char:EOLhyphen"/>ent ſpeed;</hi> and at the ſame time Mr. <hi>Mountague</hi> preſents a Bill to the Houſe for regulating the Coinage of the Silver Money. But when the <hi>Proclamation</hi> was iſſued, the Days appointed by it for putting a ſtop to the Currency of Clipt Money were ſo ſudden, (and the ſame done, as is ſaid by the Advice of Mr. <hi>Mountague,</hi> contrary to that of the major part of the Council) that an im<g ref="char:EOLhyphen"/>mediate Stop and great Difficulties enſued in Trade and Com<g ref="char:EOLhyphen"/>merce; which being repreſented, and every Gentleman ſenſible of it, 31 <hi>Dec.</hi> they reſolved on the morrow to conſider in a Committee of the whole Houſe farther of the State of the Coin, and for preventing the Stop of Commerce during the Recoining of Clipt Money. And after ſome Debates on ſeveral days, <hi>Jan.</hi> 9. Colonel <hi>Granvil</hi> reports from the Committee of the whole Houſe, who were to conſider of the State of the Coin, ſeveral Reſoluti<g ref="char:EOLhyphen"/>ons (very different from the former) which were agreed unto by the Houſe, and a Bill ordered to be brought in upon them. Theſe Reſolutions are very conſiderable; and among the reſt.
+<pb n="7" facs="tcp:97403:4"/>
+               <q>
+                  <p>
+                     <hi>That the Recompence for ſupplying the Deficiency of Clipt Money, ſhall extend to all Clipt Money which is Silver, although of a coarſer Alloy than the Standard.</hi>
+                  </p>
+                  <p>
+                     <hi>That the Collectors and Receivers of his Majeſty's Aids and Reve<g ref="char:EOLhyphen"/>nues be enjoin'd to receive all ſuch Monies.</hi>
+                  </p>
+                  <p>
+                     <hi>That a Reward of Five Bound</hi> per Cent. <hi>be given to all ſuch Perſons as ſhall bring in either Mill'd or broad unclipt Money, to be applied in exchange for Clipt Money throughout the Kingdom.</hi>
+                  </p>
+                  <p>
+                     <hi>That Commiſſioners be appointed in every County, to pay and diſtribute the Mill'd and broad unclipt Money, and the new coined, Money, and to receive in the clipt Money.</hi>
+                  </p>
+               </q>
+            </p>
+            <p>Theſe Sir, you ſee, are wholſome Roſolutions, very profita<g ref="char:EOLhyphen"/>ble for the Country, and (if perſiſted in) would have ſupply'd them with good Money, and have kept Trade on foot; and by them you ſee the Temper of the Houſe at that time, what good Inclinations they had to the Country, and what Care was taken that they ſhould be no Loſers, nor their bad Money to lye on their hands to be uſeleſs and unprofitable. But this, it ſeems, was too advantageous to the People to be ripen'd into an <hi>Act,</hi> and was at the ſame time (particularly what related to the Exchange of Clipt Money, and ſupplying the Deficiency of it) oppos'd by Mr. <hi>Mountague,</hi> Mr. <hi>Clark</hi> a Commiſſioner of the Exciſe, Sir <hi>W. Young</hi> a Commiſſioner of the Cuſtoms, Sir <hi>J. Elwel,</hi> and others of the Court-Party. However,</p>
+            <p>21. <hi>Jan.</hi> the Bill upon the foregoing Reſolutions was read the ſecond time, and committed to a Committee of the whole Houſe: But then a new Artifice was ſtarted, and the Price of <hi>Guinea's</hi> brought into play, altho that Point could not be gained at that time; for <hi>a Motion being made, and the Queſtion put, that it be an Inſtruction to the ſaid Committee that they do conſider the Price of Gui<g ref="char:EOLhyphen"/>nea's; It paſſed in the Negative.</hi>
+            </p>
+            <p>But this Artifice failing, another was ready at hand; <hi>viz.</hi> To put off this Committee from ſitting, which was done for ſeveral days, notwithſtanding the honeſt Patriots got ſome Reſolutions paſs'd in order to it; as <hi>Febr.</hi> 4. <hi>an Inſtruction, that the ſaid Com<g ref="char:EOLhyphen"/>mittee do conſider of a farther Encouragement to be given for bringing in Plate to be coined, and broad Money in order to be exchang'd for Clipt Money.</hi> And <hi>Feb.</hi> 6. another Inſtruction <hi>to receive a Clauſe to prohibit the <g ref="char:V">Ʋ</g>ſe of Place in Publick Houſes:</hi> which was con<g ref="char:EOLhyphen"/>ſented to, upon the Conſideration of exchanging the Clipt Mo<g ref="char:EOLhyphen"/>ney. So that hitherto the Caſe of the People was conſidered,
+<pb n="8" facs="tcp:97403:5"/>and there were Endeavours to make Proviſion to exchange their Clipt Money, that ſo they might have had a Sufficiency of good Money, to drive on Trade, to pay their Rents, and to ſupply their Families.</p>
+            <p>But now the Price of <hi>Guinea's</hi> was ſtarted again, and <hi>Feb.</hi> 10. it was reſolved, <hi>That this Houſe will on</hi> Thurſday <hi>next reſolve it ſelf into a Committee, to conſider the Price of Guinea's.</hi> And on Thurſday, <hi>Feb.</hi> 13. the Houſe (to make ſure work) <hi>reſolv'd it ſelf</hi> (twice the ſame day, one immediately after the other) <hi>into a Committee of the whole Houſe to conſider of the Price of Guinea's,</hi> and came to a Reſolution; which Reſolution Mr. <hi>Palmes</hi> reports <hi>Feb.</hi> 15. and was agreed unto by the Houſe, <hi>viz. That no Guinea's do paſs in any Payment at above the Rate of</hi> 28 <hi>Shillings.</hi> I muſt ac<g ref="char:EOLhyphen"/>quaint you, that at this time there were warm Endeavours uſed to have reduced them to 24 Shillings, and Mr. <hi>Palmes</hi> behaved himſelf with ſuch Partiality to them of his Opinion, as was never ſeen in Parliament, and he deſervedly check'd for it by the old Members. His Son (who can ſcarce tell ten) is one of the <hi>Tellers</hi> in the Exchequer; but 'tis ſufficiently underſtood that Place was given with regard to the Father, who contrived this way to ſave his Honour, after the repeated Declarations he had made in Par<g ref="char:EOLhyphen"/>liament againſt Places.</p>
+            <p>However, this Fall of <hi>Guinea</hi>'s did not ſatisfie; they muſt be brought one ſtep lower: And accordingly <hi>Feb.</hi> 28. upon the Re<g ref="char:EOLhyphen"/>port of the Bill for continuing ſeveral Duties granted by former Acts upon Wine, Vinegar, Tobacco, <hi>&amp;c.</hi> to which the Clauſe about the Price of <hi>Guinea's</hi> was added, according to the Reſoluti<g ref="char:EOLhyphen"/>on <hi>Feb.</hi> 15. After a long Debate, ſeveral Gentlemen were unwa<g ref="char:EOLhyphen"/>rily drawn in, to admit that <hi>Guinea's ſhould not paſs in Payment at an higher Rate than</hi> 26 <hi>Shillings,</hi> upon Aſſurance then given, That the Court would acquieſce, and not ſeek to reduce them lower; and the Clauſe was ſo amended.</p>
+            <p>But did the Court acquieſce? No ſuch matter; but inſtead of that, purſued with all Vigour the ſinking Guinea's much low<g ref="char:EOLhyphen"/>er, and at length gain'd it: and not only ſo, but by ſeveral Ar<g ref="char:EOLhyphen"/>tifices prevail'd to throw out all that related to the <hi>Exchanging with the People broad or mill'd Money for their clipt Money;</hi> inſo<g ref="char:EOLhyphen"/>much that on <hi>March</hi> 10. the <hi>Title</hi> was changed, and whereas it always <hi>before</hi> ſtood in the Votes with this Title, The <hi>Bill to Encou<g ref="char:EOLhyphen"/>rage the bringing in of Mill'd, Broad, or <g ref="char:V">Ʋ</g>nclipt Monies to be ex<g ref="char:EOLhyphen"/>changed by Commiſſioners in the ſeveral parts of this Realm, with the
+<pb n="9" facs="tcp:97403:5"/>Common People for their Clipt Monies, and for the Encouraging of Per<g ref="char:EOLhyphen"/>ſons to bring Plate into the Mint to be coined.</hi> Now all the firſt part was ſtruck out, and from the 10. of <hi>March,</hi> and ever after, it bore only this Title, <hi>A Bill for the Encouraging of Perſons to bring Plate into the Mint to be coined.</hi>
+            </p>
+            <p>By this time you ſee the People were likely to be in a hopeful Condition, and to ſhift with their Clipt Money as well as they could. And here you ſee the Root of that Decay of Trade, that Deſolation among the Poor, that Stock of dead and unprofitable Money that lies upon Mens hands. Why, Sir, their <hi>Faithful Re<g ref="char:EOLhyphen"/>preſentatives</hi> took all Care <hi>to ſtop it from paſſing,</hi> and to give <hi>Twelve hundred thouſand pound</hi> to ſupply the Deficiency of it, but never thought of <hi>ſupplying the Deficiency of the Country;</hi> nay, actually op<g ref="char:EOLhyphen"/>pos'd it to the utmoſt. And it ſeems as if theſe Gentlemen had formed a Deſign that the <hi>Country ſhould have no Money,</hi> or (which is the ſame thing) none that will paſs in any Payment; for altho the Parliament left a Liberty, and permitted Six pences not clipt within the Ring, and Shillings with the greateſt part of the Let<g ref="char:EOLhyphen"/>ters, to paſs in Payment, whereby a proportion of Trade was carried on, and the People ſupply'd in ſome degree, yet now theſe are as uſeleſs, and lie as dead as the other: And if you will enquire into the Occaſion of this Stop of ſuch paſſable Money, you will find it to begin at the <hi>Collectors for the Tax;</hi> they <hi>firſt</hi> refuſed to receive it, and from them it was derived to others: and I need not remark to you, that the <hi>Sub-Collectors</hi> are under the Conduct of the <hi>Head-Collectors,</hi> and the <hi>Head Collectors</hi> under the Directi<g ref="char:EOLhyphen"/>on of the <hi>Treaſury</hi> and <hi>Exchequer;</hi> the principal Officers of which were the chiefeſt and warmeſt Sticklers in the Caſe now before us: ſo that the Perſons who would not have the Peoples Clipt Money exchanged for good Money, are the very ſame who have put a final Stop to the Currency of their other Money.</p>
+            <p>But whatever becomes of our Silver, we have yet our Guinea's paſſable at 26 Shillings. But now comes the laſt and finiſhing Stroke of this ſweeping Project; for at the Report of the <hi>Bill</hi> (with half its Title) <hi>for Encouraging bringing Plate to the Mint,</hi> &amp;c. <hi>March</hi> 9. a Clauſe was offered by the Lord <hi>Coningsby</hi> about ſet<g ref="char:EOLhyphen"/>ling the Price of Guineas. This Clauſe ſettled them at 22 Shil<g ref="char:EOLhyphen"/>lings, and the Conſideration of it was put off till the next day: and <hi>March</hi> 20. the Clauſe was rejected; but <hi>March</hi> 26. the Lord <hi>Coningsby</hi> offer'd his Clauſe again, at the third reading of the Bill; and after many hours Debate, it paſſed by a ſmall Number.</p>
+            <pb facs="tcp:97403:6" rendition="simple:additions"/>
+            <pb n="18" facs="tcp:97403:7"/>
+            <p>And thus, Sir, I have given you a plain and impartial Account of the Proceedings relating to this Matter; and you plainly ſee by what Methods this Conſumption is brought upon us. It needs no Animadverſions, and I ſhall make none; you have the Matter of Fact before you, and you may judg as you ſee Cauſe: only I crave leave to tell you, that the Party who carried theſe, ſtruggled hard to have had all Clipt Money paſs by weight immediately, and Guineas reduced to 21 <hi>s.</hi> and 6 <hi>d.</hi> and none of the Loſs to have been born by the Publick. Mr. <hi>Mountague,</hi> Chancellor of the Exchequer, had eminently a ſhare in theſe things, who deliver'd this as his Maxim, <hi>That he had rather do Wrong than do nothing.</hi> And whoever conſiders the Reſolutions taken, will find him faith<g ref="char:EOLhyphen"/>ful and true to it, and purſuing it in ſeveral Inſtances. He had a great many partners, as you muſt obſerve by the carrying their Point, particularly all that had any Intereſt in the Bank, Places at Court, Civil or Military, <hi>&amp;c.</hi> But this is more proper in the next Head, <hi>viz.</hi>
+            </p>
+            <p>To give you a Liſt (as far as my Memory will ſerve) of the Members Conſenting to theſe Votes, and Diſſenting from them, under the Parliamentary Title of <hi>Yea</hi>'s and <hi>No</hi>'s: where (for your Information) I defire you to obſerve, that thoſe under the Title <hi>Yea</hi>'s are the Members who voted for theſe Proeeedings, thoſe under <hi>No</hi>'s, who voted againſt them; or, in other words, the <hi>Yea</hi>'s are thoſe who ſunk the Guineas to 22 Shillings, <hi>&amp;c.</hi> the <hi>No</hi>'s thoſe who oppos'd it.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">YEA's.</cell>
+                     <cell role="label">NO's.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>
+                              <hi>Bedford</hi>-Shire.</head>
+                           <item>
+                              <hi>Lord</hi> Edw. Ruſſel.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>
+                              <hi>Bedford</hi>-Shire.</head>
+                           <item>Will. Duncomb.</item>
+                           <item>Will. Harrar.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Berks.</head>
+                           <item>Rich. Nevil.</item>
+                           <item>
+                              <hi>Lord</hi> Fitzharding.</item>
+                           <item>
+                              <hi>Sir</hi> Will. Scawen.</item>
+                           <item>
+                              <hi>Sir</hi> Will. Rich.</item>
+                           <item>
+                              <hi>Sir</hi> Hen. Vane.</item>
+                           <item>Tho. Tipping.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Berks.</head>
+                           <item>
+                              <hi>Sir</hi> Humph. Foſter.</item>
+                           <item>Will. Jennings.</item>
+                           <item>Sim. Harcourt.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Bucks.</head>
+                           <item>Th. Wharton.</item>
+                           <item>
+                              <hi>Sir</hi> R. Atkins.</item>
+                           <item>Ch. Godfrey.</item>
+                           <pb n="19" facs="tcp:97403:7"/>
+                           <item>
+                              <hi>Sir</hi> Th. Lee.</item>
+                           <item>Ri. Beake.</item>
+                           <item>Ja. Herbert.</item>
+                           <item>Ja. Chaſe.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Bucks.</head>
+                           <item>
+                              <hi>Sir</hi> Rich. Temple.</item>
+                           <item>Alex. Denton.</item>
+                           <item>Mountag. Drake.</item>
+                           <pb n="19" facs="tcp:97403:7"/>
+                           <item>Edm. Waller.</item>
+                           <item>J. Backwell.</item>
+                           <item>
+                              <hi>Sir</hi> Ja. Etheridge.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Cambridge.</head>
+                           <item>
+                              <hi>Lord</hi> Cutts.</item>
+                           <item>Edw. Ruſſel.</item>
+                           <item>
+                              <hi>Dr.</hi> Oxendon.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Cambridge.</head>
+                           <item>Hen. Boyle.</item>
+                           <item>Jo. Pepys.</item>
+                           <item>Iſ. Watlington.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Cheſter</head>
+                           <item>
+                              <hi>Sir</hi> J. Manwaring.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Cheſter.</head>
+                           <item>
+                              <hi>Sir</hi> Rob. Cotton.</item>
+                           <item>
+                              <hi>Sir</hi> Tho. Groſvenor.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Cornwal.</head>
+                           <item>H. Boſcowen.</item>
+                           <item>Sam Travers.</item>
+                           <item>Ruſſel Roberts.</item>
+                           <item>Ch. Godolphin.</item>
+                           <item>Wa. Moyle.</item>
+                           <item>Rob. Moleſworth.</item>
+                           <item>Ja. Kendal.</item>
+                           <item>Hu. Forteſcue.</item>
+                           <item>Hen. Trelawney.</item>
+                           <item>Ja. Vernon.</item>
+                           <item>Fra. Roberts.</item>
+                           <item>Ja. Mountague.</item>
+                           <item>Geo. Booth.</item>
+                           <item>
+                              <hi>Sir</hi> Bev. Granvile.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Cornwal.</head>
+                           <item>Jo. Speccot.</item>
+                           <item>
+                              <hi>Lord</hi> Hide.</item>
+                           <item>Bern. Granvile.</item>
+                           <item>Jo. Hoblyn.</item>
+                           <item>Fra. Buller.</item>
+                           <item>Ch. Trelawney.</item>
+                           <item>Alex. Pendarvis.</item>
+                           <item>J. Manley.</item>
+                           <item>Dan. Elliot.</item>
+                           <item>Hen. Fleming.</item>
+                           <item>J. Tredenham.</item>
+                           <item>Lym. Tredenham.</item>
+                           <item>
+                              <hi>Sir</hi> W. Coryton.</item>
+                           <item>Fran. Gwyn.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Cumberland.</head>
+                           <item>
+                              <hi>Sir</hi> Geo. Fletcher.</item>
+                           <item>
+                              <hi>Sir</hi> J. Lowther.</item>
+                           <item>Will. Howard.</item>
+                           <item>Ja. Lowther.</item>
+                           <item>Goodw. Wharton.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Cumberland.</head>
+                           <item>
+                              <hi>Sir</hi> Ch. Gerrard.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Derby.</head>
+                           <item>
+                              <hi>Lord</hi> Hartington.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Derby.</head>
+                           <item>
+                              <hi>Sir</hi> Geo. Clark.</item>
+                           <item>
+                              <hi>Lord</hi> Hen. Cavendiſh.</item>
+                           <item>J. Bagnold.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Devon.</head>
+                           <item>Edw. Seyward.</item>
+                           <item>
+                              <hi>Sir</hi> Joſ. Tyley.</item>
+                           <pb n="12" facs="tcp:97403:8"/>
+                           <item>A. Champneys</item>
+                           <item>
+                              <hi>Sir</hi> Tho. Trevor.</item>
+                           <item>Courtney Crocker.</item>
+                           <item>
+                              <hi>Sir</hi> W. Young.</item>
+                           <item>
+                              <hi>Lord</hi> Rob. Ruſſel.</item>
+                           <item>
+                              <hi>Lord</hi> Ja. Ruſſel.</item>
+                           <item>
+                              <hi>Sir</hi> Row. Gwyn.</item>
+                           <item>
+                              <hi>Sir</hi> J. Elwel.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Devon.</head>
+                           <item>Fr. Cortney.</item>
+                           <item>Sam. Rolle.</item>
+                           <pb n="12" facs="tcp:97403:8"/>
+                           <item>
+                              <hi>Sir</hi> Edw. Seymour.</item>
+                           <item>Edw. Yard.</item>
+                           <item>Joh. Granvile.</item>
+                           <item>Geo. Parker.</item>
+                           <item>J. Burrington</item>
+                           <item>Nic. Hooper.</item>
+                           <item>
+                              <hi>Sir</hi> Will. Drake.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Dorſet.</head>
+                           <item>Hen. Henley.</item>
+                           <item>Tho. Freke.</item>
+                           <item>Joh. Knight.</item>
+                           <item>
+                              <hi>Sir</hi> Steph. Evans.</item>
+                           <item>
+                              <hi>Sir</hi> Mat. Andrews.</item>
+                           <item>Edw. Nicholas</item>
+                           <item>Tho. Erle</item>
+                           <item>Tho. Trenchard.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Dorſet.</head>
+                           <item>Tho. Strangways.</item>
+                           <item>Tho. Freke.</item>
+                           <item>
+                              <hi>Lord</hi> Aſhley.</item>
+                           <item>Mich. Harvey.</item>
+                           <item>Rich. Fownes.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Durham.</head>
+                           <item>Hen. Lyddel.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Durham.</head>
+                           <item>
+                              <hi>Sir</hi> Will. Bowes.</item>
+                           <item>W. Lampton.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Eſſex.</head>
+                           <item>
+                              <hi>Sir</hi> Fr. Marſham.</item>
+                           <item>
+                              <hi>Sir</hi> Iſ. Rebow</item>
+                           <item>Irly Mountague.</item>
+                           <item>
+                              <hi>Sir</hi> Tho. Middleton.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Eſſex.</head>
+                           <item>
+                              <hi>Sir</hi> Eliab Harvey.</item>
+                           <item>
+                              <hi>Sir</hi> Tho. Daval.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Gloceſter.</head>
+                           <item>
+                              <hi>Sir</hi> Ra. Dutton.</item>
+                           <item>Rich. Dowdeſwel.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Gloceſter.</head>
+                           <item>— Stephens.</item>
+                           <item>Rob. Payne.</item>
+                           <item>J. How.</item>
+                           <item>Rich. How.</item>
+                           <item>
+                              <hi>Sir</hi> Fr. Winnington.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Hereford.</head>
+                           <item>
+                              <hi>Sir</hi> H. Crofts.</item>
+                           <item>
+                              <hi>Lord</hi> Coningsby.</item>
+                           <item>J. Dutton Colt.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Hereford.</head>
+                           <item>Rob. Price.</item>
+                           <item>Tho. Foley.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Hertford.</head>
+                           <item>
+                              <hi>Sir</hi> T. Pope Blount.</item>
+                           <item>
+                              <hi>Sir</hi> W. Cooper.</item>
+                           <item>W. Cooper.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Hertford.</head>
+                           <item>Tho. Halſey.</item>
+                           <item>Geo. Churchill.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="13" facs="tcp:97403:8"/>
+                        <list>
+                           <head>Huntington.</head>
+                           <item>Hen. Mountague.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <pb n="13" facs="tcp:97403:8"/>
+                        <list>
+                           <head>Huntington.</head>
+                           <item>An. Hamond.</item>
+                           <item>Rich. Mountague.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Kent.</head>
+                           <item>Phil. Sidney.</item>
+                           <item>
+                              <hi>Sir</hi> Tho. Roberts.</item>
+                           <item>Geo. Sayer.</item>
+                           <item>
+                              <hi>Sir</hi> Cloud. Shovel.</item>
+                           <item>
+                              <hi>Sir</hi> Joſ. Williamſon.</item>
+                           <item>Tho. Rider.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Kent.</head>
+                           <item>
+                              <hi>Sir</hi> Joh. Bankes.</item>
+                           <item>Caleb. Bankes.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Lancaſter.</head>
+                           <item>Ja Stanley.</item>
+                           <item>Ro. Kirby.</item>
+                           <item>Tho. Molineux.</item>
+                           <item>W. Norreys.</item>
+                           <item>Jaſp. Maudit.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Lancaſter.</head>
+                           <item>Leigh Banks.</item>
+                           <item>Tho. Brotherton.</item>
+                           <item>
+                              <hi>Sir</hi> Rob. Bradſhaw.</item>
+                           <item>P. Shackerley.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Leiceſter.</head>
+                           <item>Geo. Aſhby.</item>
+                           <item>
+                              <hi>Sir</hi> Edw. Abney.</item>
+                           <item>A. Palmer.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Leiceſter.</head>
+                           <item> </item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Lincoln.</head>
+                           <item>W. Monſon.</item>
+                           <item>Per. Bertie.</item>
+                           <item>
+                              <hi>Sir</hi> W. Yorke.</item>
+                           <item>
+                              <hi>Sir</hi> Ed. Ayſcough.</item>
+                           <item>Ch. Bertie.</item>
+                           <item>Ph. Bertie.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Lincoln.</head>
+                           <item>
+                              <hi>Lord</hi> Caſtleton.</item>
+                           <item>
+                              <hi>Sir</hi> Tho. Huſſey.</item>
+                           <item>
+                              <hi>Sir</hi> J. Bolles.</item>
+                           <item>
+                              <hi>Sir</hi> W. Ellis.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Middleſex.</head>
+                           <item>
+                              <hi>Sir</hi> J. Wolſtenholme.</item>
+                           <item>Ch. Mountague.</item>
+                           <item>
+                              <hi>Sir</hi> Steph. Fox.</item>
+                           <item>
+                              <hi>Sir</hi> Rob. Clayton.</item>
+                           <item>Tho. Papilion.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Middleſex.</head>
+                           <item>
+                              <hi>Sir</hi> J. Fleet.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Norfolk.</head>
+                           <item>
+                              <hi>Sir</hi> H. Hobart.</item>
+                           <item>
+                              <hi>Sir</hi> J. Turner.</item>
+                           <item>Ja. Slowan.</item>
+                           <item>
+                              <hi>Sir</hi> Ro. Howard.</item>
+                           <pb n="22" facs="tcp:97403:9"/>
+                           <item>Edw. Walpool.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Norfolk.</head>
+                           <item>
+                              <hi>Sir</hi> Jac. Aſtley.</item>
+                           <item>Fran. Gardiner.</item>
+                           <item>Tho. Blofield.</item>
+                           <item>Geo. England.</item>
+                           <pb n="22" facs="tcp:97403:9"/>
+                           <item>Sam. Fuller.</item>
+                           <item>
+                              <hi>Sir</hi> J. Woodhouſe.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Northampton.</head>
+                           <item>
+                              <hi>Sir</hi> St. Andrew Saint-John.</item>
+                           <item>W. Brownlow.</item>
+                           <item>Ch. Egerton.</item>
+                           <item>Hen. Morden.</item>
+                           <item>Tho. Andrews.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Nothamprton.</head>
+                           <item>Tho. Cartwright.</item>
+                           <item>G. Dolben.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Northumberland.</head>
+                           <item>Geo. Nicholas.</item>
+                           <item>
+                              <hi>Sir</hi> Henry Bellaſis.</item>
+                           <item>Ra. Gray.</item>
+                           <item>Sam. Ogle.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Northumberland.</head>
+                           <item>Will. Forſter.</item>
+                           <item>Sir W. Blacket.</item>
+                           <item>Will. Carre.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Nottingham.</head>
+                           <item>
+                              <hi>Sir</hi> Scroop How.</item>
+                           <item>J. White.</item>
+                           <item>Rich. Slater.</item>
+                           <item>W. Pierpoint.</item>
+                           <item>J. Thornhaugh.</item>
+                           <item>
+                              <hi>Sir</hi> Fr. Mollineux.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Nottingham.</head>
+                           <item>
+                              <hi>Sir</hi> Geo. Markham.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Oxon.</head>
+                           <item>
+                              <hi>Sir</hi> Will. Trumball.</item>
+                           <item>
+                              <hi>Sir</hi> Thomas Littleton.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Oxon.</head>
+                           <item>
+                              <hi>Lord</hi> Norreys</item>
+                           <item>
+                              <hi>Sir</hi> R. Jenkinſon.</item>
+                           <item>Hen. Finch.</item>
+                           <item>
+                              <hi>Sir</hi> Edw. Norreys.</item>
+                           <item>Tho. Rowney.</item>
+                           <item>Ja. Bertey.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Rutland.</head>
+                           <item>Bennet Sherrard.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Rutland.</head>
+                           <item> </item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Salop.</head>
+                           <item>
+                              <hi>Lord</hi> Newport.</item>
+                           <item>Ch. Baldwin.</item>
+                           <item>
+                              <hi>Sir</hi> Will. Forreſter.</item>
+                           <item>Rich. Moore.</item>
+                           <item>Ch. Maſon.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Salop.</head>
+                           <item>Edw. Kynaſton.</item>
+                           <item>And. Newport.</item>
+                           <item>J. Kynaſton.</item>
+                           <item>
+                              <hi>Sir</hi> W. Whitmore.</item>
+                           <item>
+                              <hi>Sir</hi> Edw. Acton.</item>
+                           <item>Geo. Weld.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Somerſet.</head>
+                           <item>
+                              <hi>Sir</hi> Tho. Day.</item>
+                           <item>W. Blathwait.</item>
+                           <pb n="23" facs="tcp:97403:9"/>
+                           <item>Edw. Clarke.</item>
+                           <item>Ro. Hoar.</item>
+                           <item>J. Speake.</item>
+                           <item>
+                              <hi>Sir</hi> Tho. Travel</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Somerſet.</head>
+                           <item>
+                              <hi>Sir</hi> J. Smit.</item>
+                           <item>
+                              <hi>Sir</hi> J. Trevilian.</item>
+                           <pb n="23" facs="tcp:97403:9"/>
+                           <item>Edw. Berkley.</item>
+                           <item>Serjeant Coward.</item>
+                           <item>Nath. Palmer.</item>
+                           <item>J. Sandford.</item>
+                           <item>
+                              <hi>Sir</hi> Fr. Windham</item>
+                           <item>J. Hunt.</item>
+                           <item>
+                              <hi>Sir</hi> Ch. Carteret.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Southampton.</head>
+                           <item>
+                              <hi>Lord</hi> Wincheſter.</item>
+                           <item>
+                              <hi>Lord</hi> W. Pawlet.</item>
+                           <item>Nich. Hedger.</item>
+                           <item>An. Morgan.</item>
+                           <item>
+                              <hi>Sir</hi> Hen. Colt.</item>
+                           <item>
+                              <hi>Sir</hi> Ro. Cotton.</item>
+                           <item>
+                              <hi>Lord</hi> Cornbury.</item>
+                           <item>Tho. Dore.</item>
+                           <item>Chriſt Stokes.</item>
+                           <item>J. Smith.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Southampton.</head>
+                           <item>Fred. Tilney.</item>
+                           <item>
+                              <hi>Sir</hi> Ben. Newland.</item>
+                           <item>Hen. Holmes.</item>
+                           <item>An. Sturt.</item>
+                           <item>Ja. Worſely.</item>
+                           <item>Tho. Done.</item>
+                           <item>W. Etterick.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Stafford.</head>
+                           <item>
+                              <hi>Sir</hi> M. Biddulph.</item>
+                           <item>J. Lawton.</item>
+                           <item>Tho. Guy.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Stafford.</head>
+                           <item>J. Grey.</item>
+                           <item>Hen. Page.</item>
+                           <item>Ro. Burdet.</item>
+                           <item>Phil. Foley.</item>
+                           <item>Tho. Foley.</item>
+                           <item>
+                              <hi>Sir</hi> J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Lev. Gower.</item>
+                           <item>
+                              <hi>Sir</hi> Hen. Gough.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Suffolk.</head>
+                           <item>Ch. Whitaker.</item>
+                           <item>
+                              <hi>Sir</hi> Ro. Rich.</item>
+                           <item>H. Heveringham.</item>
+                           <item>Tho. Felton.</item>
+                           <item>S<hi rend="sup">r</hi> T. Barnardiſton</item>
+                           <item>Ch. Cornwallis.</item>
+                           <item>J. Harvey.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Suffolk.</head>
+                           <item>S<hi rend="sup">r</hi> S. Bernardiſton</item>
+                           <item>
+                              <hi>Sir</hi> J. Barker.</item>
+                           <item>
+                              <hi>Sir</hi> Hen. Johnſon.</item>
+                           <item>W. Johnſon.</item>
+                           <item>
+                              <hi>Sir</hi> Ro. Davers.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Surrey.</head>
+                           <item>
+                              <hi>Sir</hi> Rich. Onſlow.</item>
+                           <item>Den. Onſlow.</item>
+                           <item>An. Bowyer.</item>
+                           <pb n="23" facs="tcp:97403:9"/>
+                           <item>Tho. Howard.</item>
+                           <item>M. Thompſon.</item>
+                           <item>Foot Onſlow.</item>
+                           <item>
+                              <hi>Sir</hi> J. Thompſon.</item>
+                           <item>Geo. Bridges.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Surrey.</head>
+                           <item>Ch. Cox.</item>
+                           <item>
+                              <hi>Sir</hi> J. Parſons.</item>
+                           <item>J. Parſons.</item>
+                           <pb n="23" facs="tcp:97403:9"/>
+                           <item>Geo. Woodroffe.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Suſſex.</head>
+                           <item>
+                              <hi>Lord</hi> Ranelagh.</item>
+                           <item>J. Machel.</item>
+                           <item>Tho. Pelham.</item>
+                           <item>Hen. Pelham.</item>
+                           <item>H. Prieſtman.</item>
+                           <item>Nich. Burbon.</item>
+                           <item>Edw. Dummer.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Suſſex.</head>
+                           <item>W. Elſon.</item>
+                           <item>
+                              <hi>Sir</hi> W. Morley.</item>
+                           <item>J. Lewknor.</item>
+                           <item>J. Perry.</item>
+                           <item>W. Stringer.</item>
+                           <item>
+                              <hi>Sir</hi> Tho. Dyke.</item>
+                           <item>J. Conyets.</item>
+                           <item>
+                              <hi>Lord</hi> Walden.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Warwick.</head>
+                           <item> </item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Warwick.</head>
+                           <item>W. Bromley.</item>
+                           <item>A. Archer.</item>
+                           <item>Geo. Bohun.</item>
+                           <item>Tho. Gery.</item>
+                           <item>
+                              <hi>Lord</hi> Digby.</item>
+                           <item>Fran. Grevile.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Weſtmorland.</head>
+                           <item>
+                              <hi>Sir</hi> J. Lowther.</item>
+                           <item>
+                              <hi>Sir</hi> Ric. Sandford.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Weſtmorland.</head>
+                           <item>
+                              <hi>Sir</hi> W. Twiſden.</item>
+                           <item>S<hi rend="sup">r</hi> Chr. Muſgrave</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Wilts.</head>
+                           <item>
+                              <hi>Sir</hi> T. Mompeſſon</item>
+                           <item>Tho. Hoby.</item>
+                           <item>
+                              <hi>Sir</hi> J. Hawles.</item>
+                           <item>
+                              <hi>Sir</hi> Cha. Raleigh.</item>
+                           <item>Hen. Blake.</item>
+                           <item>Alex. Popham.</item>
+                           <item>Craven Howard.</item>
+                           <item>Goodw. Wharton</item>
+                           <item>Ch. Fox.</item>
+                           <item>Tho. Neal.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Wilts.</head>
+                           <item>Ro. Hide.</item>
+                           <item>Ch. Morley.</item>
+                           <item>Will. Aſhe.</item>
+                           <item>Ro. Bertie.</item>
+                           <item>Rich. Lewis.</item>
+                           <item>
+                              <hi>Sir</hi> E. Ernly.</item>
+                           <item>Will. Harvey.</item>
+                           <item>Hen. Pynnel.</item>
+                           <item>Tho. Bennet.</item>
+                           <item>W. Daniel.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Worceſter.</head>
+                           <item>Will. Bromley.</item>
+                           <item>Ch. Cox.</item>
+                           <pb n="16" facs="tcp:97403:10" rendition="simple:additions"/>
+                           <item>
+                              <hi>Sir</hi> Ja. Ruſhout.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Worceſter.</head>
+                           <item>Edwyn Sandys.</item>
+                           <item>Sam. Swift.</item>
+                           <pb n="16" facs="tcp:97403:10" rendition="simple:additions"/>
+                           <item>Hen. Parker.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>York.</head>
+                           <item>Ch. Osborn.</item>
+                           <item>
+                              <hi>Sir</hi> W. St. Quintin</item>
+                           <item>Chriſt. Stockdale</item>
+                           <item>
+                              <hi>Lord</hi> Irwin.</item>
+                           <item>
+                              <hi>Sir</hi> Ch. Hotham.</item>
+                           <item>Jonath. Jennings.</item>
+                           <item>Tho. Frankland.</item>
+                           <item>
+                              <hi>Sir</hi> H. Goodwick.</item>
+                           <item>
+                              <hi>Sir</hi> W. Strickland</item>
+                           <item>W. Palmes.</item>
+                           <item>
+                              <hi>Sir</hi> W. Lowther.</item>
+                           <item>Rob. Monckton.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>York.</head>
+                           <item>Rob. Byerley.</item>
+                           <item>S<hi rend="sup">r</hi> M. Wentworth</item>
+                           <item>
+                              <hi>Sir</hi> Mic. Wharton</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Cinque-Ports.</head>
+                           <item>J. Poultney.</item>
+                           <item>Ro. Auſten.</item>
+                           <item>Sam. Weſterne.</item>
+                           <item>
+                              <hi>Sir</hi> J. Auſten.</item>
+                           <pb n="16" facs="tcp:97403:10" rendition="simple:additions"/>
+                           <item>J. Brewer.</item>
+                           <item>
+                              <hi>Sir</hi> Ph. Boteler.</item>
+                           <item>
+                              <hi>Sir</hi> Baſ. Dixwel.</item>
+                           <item>Ja. Chadwicke.</item>
+                           <item>Ed. Brente.</item>
+                           <item>W. Campion.</item>
+                           <item>W. Loundes.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Cinque-Ports.</head>
+                           <item>Tho. Frewen.</item>
+                           <item>
+                              <hi>Sir</hi> W. Twiſden.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <head>Wales.</head>
+                           <item>
+                              <hi>Sir</hi> Ro. Puleſton.</item>
+                           <item>H. Nanny.</item>
+                           <item>
+                              <hi>Lord</hi> Lisburn.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <pb n="16" facs="tcp:97403:10" rendition="simple:additions"/>
+                           <head>Wales.</head>
+                           <item>
+                              <hi>Sir</hi> W. Williams.</item>
+                           <item>Edw. Jones.</item>
+                           <item>Jeffrey Jeffreys.</item>
+                           <item>Rich. Vaughan.</item>
+                           <item>
+                              <hi>Sir</hi> R. Middleton.</item>
+                           <item>Edw. Brereton.</item>
+                           <item>
+                              <hi>Sir</hi> J. Conway.</item>
+                           <item>Tho. Manſel.</item>
+                           <item>Edw. Vaughan.</item>
+                           <item>John Jeffreys.</item>
+                           <item>Ro. Harley.</item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>And now, Sir, I have, I think, fully anſwer'd all your Deſires; you have the ſtate of the Caſe, and the Perſons concern'd; the <hi>Action</hi> and the <hi>Actors:</hi> and if you will give your ſelf the Trouble to tell over the Names, you will find that (after all the Artifice and Endeavours) the Odds was not extraordinary on the Court ſide: and you may be ſa<g ref="char:EOLhyphen"/>tisfied, that there were a great many Gentlemen who were, and ſtill are, very careful of the Good of the People for whom they ſerve. However, you have the <hi>whole Caſe</hi> before you, and now you are impowered to make a juſt and righteous Judgment both as to Perſons and Things: and if you do not, that is not my Fault, but yours. I ſhall conclude, like a Divine, with a Sentence of Scripture; <hi>He that juſtifieth the Wicked, and he that condemneth the Juſt, even they both are Abomination to the Lord,</hi> Prov. 17.15. I am, Sir,</p>
+            <closer>
+               <signed>Yours, <hi>&amp;c.</hi>
+               </signed> 
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>Aug. 20. 96.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:97403:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
